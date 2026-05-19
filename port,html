@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Portfólio Pedro Henrique</title>
+
+    <meta name="description" content="Meu portfólio com projetos de programação">
+    <meta name="keywords" content="projetos, programação">
+    <meta name="author" content="Pedro Henrique">
+    <meta name="robots" content="index,follow">
+
+    <meta property="og:title" content="Portfólio de Pedro Henrique">
+    <meta property="og:description" content="Visite meu portfólio">
+    <meta property="og:image" content="https://www.seusite.com/imagem-preview.jpg">
+    <meta property="og:url" content="https://www.seusite.com">
+    <meta property="og:type" content="website">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Portfólio de Pedro Henrique">
+    <meta name="twitter:description" content="Visite meu portfólio">
+    <meta name="twitter:image" content="https://www.seusite.com/imagem-preview.jpg">
+
+    <link rel="stylesheet" href="style.css">
+    <!--O de cima ai é o CSS-->
+</head>
+
+<body>
+<header> 
+    <h1>&lt;/&gt;</h1>
+    <nav>
+        <a href="#sobre">Sobre</a>
+        <a href="#sobre">Habilidades</a>
+        <a href="#projetos">Projetos</a>
+        <a href="#contatos">Contatos</a>
+    </nav>
+</header>
+<main>
+    <section class="hero">
+
+    <div class="texto"> 
+        <p>Olá, eu sou</p>
+        <h2>
+            Desenvolvedor <br>
+            <span>& Estudante.</span>
+        </h2>
+        <p>Indo atrás de criar um novo mundo para você</p>
+
+        <a href="#projetos">ver projetos ↗</a>
+        <a href="#sobre">Sobre mim ☺</a>
+    </div>
+
+    <div class="visual"></div>
+
+</section>
+
+<section class="cards">
+
+    <div class="card">
+        <h3>Sobre</h3>
+        <p>Conheça mais sobre mim e minha trajetória.</p>
+    </div>
+
+    <div class="card">
+        <h3>Habilidades</h3>
+        <p>Tecnologias e ferramentas que estou aprendendo.</p>
+    </div>
+
+    <div class="card">
+        <h3>Projetos</h3>
+        <p>Veja projetos que desenvolvi.</p>
+    </div>
+
+    <div class="card">
+        <h3>Contato</h3>
+        <p>Entre em contato comigo.</p>
+    </div>
+
+</section>
+</main>
+</body>
+</html>
